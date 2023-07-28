@@ -13,6 +13,8 @@
 2. From https://github.com/hsappsweb/hsapps-website click Add file, and then just drag and drop the source into github.
 3. If you started w/ a clean repo, don't also forget to copy the two files from the additional-pages folder into the github root / home folder
 
+## editing the html
+Mobirise is designed for non coders, no html editing is required.  Yet sometimes to do something mobirise doesn't support, you need to edit the html.  If you want to do that use the free plugin that allows it https://witsec.nl/extension-code-editor.html.  In particular I needed to edit the html to get the MV and PM icons to show up on the top block of their pages.
  
  ## How the contact us web form works
 The website sends the contact us info to a form-to-email service from formoid.net, it sends emails to our help/support email address.  Credentials in trello.
