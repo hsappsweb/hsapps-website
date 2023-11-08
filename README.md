@@ -1,4 +1,4 @@
-# HSApps Informational Website
+# HSIApps Informational Website
 
 ## Important highlights
 1. This site is no longer live because it didn't comply with needed requirements as far as proper font usage/color scheme etc..
